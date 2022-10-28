@@ -1,2 +1,2 @@
 # gitdemo
-Demo utilisation Git pour les ITII 2
+Demo utilisation Git pour les ITII 2 gentils
